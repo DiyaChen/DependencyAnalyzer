@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<namespaceCodeAnalysis97600>
+  <classElem99121>
+    <functionToString110120 />
+  </classElem99121>
+  <classRepository123171>
+    <functionRepository129132 />
+    <functiongetInstance134137 />
+  </classRepository123171>
+  <classPushStack175206>
+    <functionPushStack179182 />
+    <functiondoAction183205 />
+  </classPushStack175206>
+  <classComplexityAnalysis210243>
+    <functionComplexityAnalyze212242 />
+  </classComplexityAnalysis210243>
+  <classRelationshipAnalysis245345>
+    <functionRelationshipAnalyzer247263 />
+    <functionInheritanceAnalyze265280 />
+    <functionAggregationAnalyze282306 />
+    <functionCompositionAnalyze308324 />
+    <functionUsingAnalyze326344 />
+  </classRelationshipAnalysis245345>
+  <classPopStack346396>
+    <functionPopStack350353 />
+    <functiondoAction354395 />
+  </classPopStack346396>
+  <classPrintFunction400420>
+    <functionPrintFunction404407 />
+    <functiondisplay408415 />
+    <functiondoAction416419 />
+  </classPrintFunction400420>
+  <classPrint424437>
+    <functionPrint428431 />
+    <functiondoAction432436 />
+  </classPrint424437>
+  <classDetectNamespace441457>
+    <functiontest443456 />
+  </classDetectNamespace441457>
+  <classDetectClass461482>
+    <functiontest463481 />
+  </classDetectClass461482>
+  <classDetectFunction486511>
+    <functionisSpecialToken488495 />
+    <functiontest496510 />
+  </classDetectFunction486511>
+  <classDetectAnonymousScope516532>
+    <functiontest518531 />
+  </classDetectAnonymousScope516532>
+  <classDetectLeavingScope536548>
+    <functiontest538547 />
+  </classDetectLeavingScope536548>
+  <classBuildCodeAnalyzer549597>
+    <functionBuildCodeAnalyzer553556 />
+    <functionbuild557596 />
+  </classBuildCodeAnalyzer549597>
+</namespaceCodeAnalysis97600>

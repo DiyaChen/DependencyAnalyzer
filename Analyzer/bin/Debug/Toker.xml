@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<namespaceCStoker95626>
+  <classCToker100625>
+    <functionCToker115119 />
+    <functionopenFile122134 />
+    <functionopenString137149 />
+    <functionclose152155 />
+    <functionremoveReturn158167 />
+    <functionremoveReturn170179 />
+    <functionreadLine182202 />
+    <functiongetLine215244 />
+    <functionextract251287 />
+    <functionextractDQuote291320 />
+    <functionextractSQuote324353 />
+    <functionextractComment357404 />
+    <functioneatCComment407437 />
+    <functionIsGrammarPunctuation441448 />
+    <functioneatAscii451465 />
+    <functioneatPunctuationChar468473 />
+    <functionfillBuffer476503 />
+    <functiongetTok506518 />
+    <functionpeekNextTok521528 />
+    <functionpushBack531534 />
+    <functionMain541623 />
+  </classCToker100625>
+</namespaceCStoker95626>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<namespaceCodeAnalysis52185>
+  <classScopeStack54121>
+    <functionpush6164 />
+    <functionpop6776 />
+    <functionclear7982 />
+    <functionlastPopped108111 />
+    <functiondisplay114120 />
+  </classScopeStack54121>
+  <classTest123184>
+    <functionmake130135 />
+    <functionToString136145 />
+    <functionMain149182 />
+  </classTest123184>
+</namespaceCodeAnalysis52185>

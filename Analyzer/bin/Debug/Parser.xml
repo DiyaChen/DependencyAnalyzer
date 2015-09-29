@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<namespaceCodeAnalysis44161>
+  <classParser4973>
+    <functionParser5356 />
+    <functionadd5760 />
+    <functionparse6172 />
+  </classParser4973>
+  <classTestParser75160>
+    <functionProcessCommandline7995 />
+    <functionShowCommandLine97106 />
+    <functionMain112158 />
+  </classTestParser75160>
+</namespaceCodeAnalysis44161>
